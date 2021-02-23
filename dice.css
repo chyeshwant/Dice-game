@@ -1,0 +1,49 @@
+body
+{
+background-color: #393E46;
+}
+
+.container
+{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  display: block;
+}
+
+h1{
+margin: 50px;
+font-family: "Lucida Console","Courier New", monospace;
+font-size: 8rem;
+color: #4ECCA3;
+text-shadow: -5px 5px #fcf8ec;
+}
+
+footer
+{
+text-align: center;
+}
+.f{
+  color: white;
+  font-size: 20px;
+}
+
+img{
+  text-align: center;
+  height: 200px;
+}
+.images
+{
+  text-align: center;
+}
+.dice
+{
+text-align: center;
+}
+
+p{
+font-size: 30px;
+font-family: 'Architects Daughter', cursive;
+color: #4ECCA3;
+display: inline-block;
+}
